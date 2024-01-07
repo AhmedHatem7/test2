@@ -1,0 +1,15 @@
+.btn-hover:hover
+{
+background-color:#263
+}
+.container h1
+{
+    font-family: 'Amatic SC', sans-ser;
+    font-size: 100px;
+    font-weight: 900;
+
+}
+p{
+    font-family: 'DM Serif Display', serif;
+    font-weight: 300;
+}
